@@ -1,0 +1,28 @@
+{
+	"name": "aero-auth-google",
+	"version": "0.0.1",
+	"main": "index.js",
+	"description": "Login via Google.",
+	"dependencies": {
+		"passport": "*",
+		"passport-google-oauth": "*"
+	},
+	"keywords": [
+		"aero",
+		"google",
+		"auth",
+		"authorization",
+		"login",
+		"passport"
+	],
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/aerojs/aero-auth-google"
+	},
+	"author": {
+		"name": "Eduard Urbach",
+		"email": "e.urbach@gmail.com",
+		"url": "https://blitzprog.org"
+	},
+	"license": "GPL-3.0"
+}
